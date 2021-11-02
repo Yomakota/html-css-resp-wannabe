@@ -83,6 +83,7 @@ img {
   #lezioni.container, #why.container.grey {
     background-color: var(--bg-color-yellow);
     background-size: contain;
+    padding-bottom: 1em;
   }
 
   #lezioni .row>.left,
