@@ -93,7 +93,12 @@ img {
   #steps .row>.right {
     float: none;
     width: 100%;
+    padding-bottom: 1em;
   } 
+
+  #why .row>.first, #why .row>.second, #why .row>.third {
+    margin-top:0;
+  }
   
   .row {
     width: 100%;
