@@ -105,8 +105,14 @@ img {
     margin:0;
   }
 
+  #why .row img {
+    width: 80px;
+    height: 80px;
+    padding: 1.5em;
+}
+
   img {
-    height: 100px;
+    height: 120px;
   }
 
   h1, h3 {
